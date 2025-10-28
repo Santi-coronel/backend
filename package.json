@@ -8,12 +8,7 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "keywords": [
-    "ecommerce",
-    "api",
-    "express",
-    "nodejs"
-  ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
